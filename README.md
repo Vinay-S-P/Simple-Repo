@@ -1,3 +1,3 @@
 # Simple-Repo
 Practice <br>
-author-Vinay S P
+author-Vinay (S P)
